@@ -4,6 +4,8 @@
 
  Consiste en diseñar un Content Based Image Retrieval (CBIR), que corresponde a una interfáz de consulta de queries a una base de datos de imágenes, es decir, se pasa una imagen a buscar y el CBIR retorna un top de las figuras que más se parecen.
  
+ ![alt text](https://github.com/mvarasg/EL5206/blob/main/Proyecto/CBIR.png?raw=true)
+ 
  Se pide realizar dos métodos de extracción de caracterísiticas, uno handcrafted (LBP, HOG, etc) y otro clásico como puede ser una red pre-entrenada. Se calculan rankings para comparar los desempeños y se pide optimizar la función de busqueda considerando desempeño, memoria de uso y tiempo de consulta.
 
 
