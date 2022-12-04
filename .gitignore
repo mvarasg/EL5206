@@ -1,0 +1,11 @@
+#Ignorar la base de datos jpg1
+jpg1.tar.gz
+#Ignorar la base de datos jpg2
+jpg2.tar.gz
+GPR1200.zip
+mobile_12000_n.csv
+lbp_12000_n.csv
+res_DB_HOG_12000.csv
+res_DB_LBP_12000.csv
+res_DB_Mobile_12000.csv
+hog_12000_n.csv

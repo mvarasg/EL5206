@@ -1,0 +1,16 @@
+Tiempos de obtención de vectores de características:
+LBP:
+	Tiempo de ejecución 67.4 [s]. LBP jpg1
+	Tiempo de ejecución 75.149 [s]. LBP jpg2
+	Tiempo de ejecución 1219.628 [s]. LBP 12000
+
+MobileNetV2:
+	Tiempo de ejecución 1592.392 [s]. Mobile jpg1
+	Tiempo de ejecución 1534.331 [s]. Mobile jpg2
+	Tiempo de ejecución 28132.777 [s]. Movile 12000
+
+HOG:
+
+Tiempo de ejecución 82.702 [s]. HOG jpg1
+Tiempo de ejecución 92.857 [s]. HOG jpg2
+Tiempo de ejecución 1706.91 [s]. HOG 12000
